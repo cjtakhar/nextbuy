@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model artifacts (optional, you can adjust)
+*.csv
+*.pkl
+*.joblib
+
+# VSCode and PyCharm IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing / coverage output
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# Saved models directory (optional if you want to regenerate always)
+saved_models/
+
+# Cache
+.cache/
