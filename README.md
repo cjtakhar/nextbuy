@@ -156,7 +156,10 @@ python predict.py
 ---
 
 ## Author
-Built by Cj Takhar 
-Focused on real-world machine learning, product ML workflows, and applied ML engineering.
-```
+Built by **Cj Takhar**
+
+---
+
+*Focused on real-world machine learning, product ML workflows, and applied ML engineering.*
+
 
